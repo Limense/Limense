@@ -1,24 +1,154 @@
-# 💫 About Me:
-¡Hola! Soy Andry, un estudiante de Ingeniería de Sistemas de 20 años, ¡y soy peruano! 🇵🇪<br>Desde que comencé a explorar el mundo de la tecnología, supe que quería formar parte de él. Cada nuevo lenguaje de programación que aprendo, cada proyecto en el que participo, me impulsa a seguir mejorando y desafiándome a mí mismo. La curiosidad es mi mayor motor, y siempre estoy buscando aprender algo nuevo, especialmente en áreas como el desarrollo web y la inteligencia artificial.<br>A lo largo de mi camino, he desarrollado un profundo interés en cómo la tecnología puede resolver problemas complejos. Mi enfoque no es solo adquirir conocimiento, sino aplicar lo que sé para crear soluciones que realmente marquen la diferencia. Soy de los que creen que el aprendizaje no tiene fin, y por eso me encanta involucrarme en proyectos que me reten y me permitan crecer.<br>Más allá de las líneas de código, me encanta colaborar con personas diversas, intercambiar ideas y trabajar en equipo. Sé que el verdadero éxito viene de aportar al conjunto, y disfruto mucho ver cómo los proyectos toman vida a través del esfuerzo colectivo.<br>Mi meta es seguir creciendo, enfrentar nuevos desafíos y, sobre todo, contribuir con pasión a proyectos que puedan tener un impacto real. Estoy listo para asumir nuevas oportunidades y aportar mi energía, mis ganas de aprender y mi dedicación.<br><br>
+# ¡Hola! 👋 Soy Diego Andriy
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Estudiante+de+Ingeniería+de+Sistemas;Full+Stack+Developer+en+formación;Apasionado+por+IA+y+Ciberseguridad;Especialista+en+Data+Science" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andry-emilio-diego-9641482ab/) 
+## 🚀 Sobre Mí
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Limense&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Limense&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Limense&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- 🎓 **Estudiante de Ingeniería de Sistemas** con pasión por la tecnología
+- 🔭 Actualmente realizando **prácticas en Full Stack Development**
+- 🌱 Aprendiendo **Data Science** y profundizando en **Machine Learning**
+- 💡 Especializado en **Python** para Data Science, Web APIs y desarrollo backend
+- 🌐 Desarrollador **JavaScript** con experiencia en **Astro** y **Next.js**
+- 🤖 Apasionado por la **Inteligencia Artificial** y **Ciberseguridad**
+- 💬 Pregúntame sobre **Python, Data Science, JavaScript, APIs REST**
+- 📫 Contáctame en: **[LinkedIn](https://www.linkedin.com/in/andriydiego/)**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Limense&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🛠️ Stack Tecnológico
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Limense&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### Lenguajes Principales
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Data Science & IA
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### Frontend & Frameworks
+![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Herramientas y Plataformas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Limense&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Limense&theme=radical&hide_border=true" alt="Racha de GitHub" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limense&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Más Usados" />
+</div>
+
+## 🏆 Trofeos de GitHub
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Limense&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Trofeos de GitHub" />
+</div>
+
+## 🌟 Áreas de Especialización
+
+### 🤖 Inteligencia Artificial
+- **Machine Learning:** Algoritmos de clasificación y regresión
+- **Data Analysis:** Análisis exploratorio de datos y visualización
+- **Deep Learning:** Redes neuronales básicas
+- **NLP:** Procesamiento de lenguaje natural
+
+### 🔒 Ciberseguridad
+- **Seguridad en Aplicaciones Web:** Mejores prácticas de desarrollo seguro
+- **Análisis de Vulnerabilidades:** Identificación y mitigación de riesgos
+- **Ethical Hacking:** Pentesting básico y seguridad defensiva
+
+### 🌐 Desarrollo Full Stack
+- **Frontend Moderno:** Astro, Next.js, React
+- **APIs RESTful:** Diseño e implementación con Python
+- **Arquitectura de Software:** Patrones de diseño y buenas prácticas
+
+## 🎯 Proyectos en Desarrollo
+
+```python
+# Actualmente trabajando en:
+current_projects = {
+    "data_science": "Análisis predictivo con Python",
+    "web_development": "Aplicaciones con Astro y Next.js",
+    "cybersecurity": "Herramientas de análisis de seguridad",
+    "ai_projects": "Modelos de Machine Learning"
+}
+```
+
+## 📈 Gráfico de Contribuciones
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Limense&theme=react-dark&hide_border=true" alt="Gráfico de Contribuciones" />
+</div>
+
+## 🎓 Trayectoria Académica
+
+- 📚 **Ingeniería de Sistemas** - En curso
+- 💼 **Prácticas Full Stack Development** - Actualmente
+- 🔬 **Especialización en Data Science** - En proceso
+- 🛡️ **Certificaciones en Ciberseguridad** - Próximamente
+
+## 🤝 Conecta Conmigo
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriydiego/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Limense)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego@ejemplo.com)
+
+</div>
+
+## 💡 Quote del Día
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote del Día" />
+</div>
+
+## 🐍 Contribución Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Limense/Limense/output/github-contribution-grid-snake.svg" alt="Animación de serpiente" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Limense&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Limense&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="Vistas del Perfil" />
+</div>
+
+<div align="center">
+  
+**"El código es poesía escrita en lógica" 💻**
+
+**¡Siempre abierto a nuevas oportunidades y colaboraciones!**
+
+</div>
