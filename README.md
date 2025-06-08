@@ -1,56 +1,76 @@
 # ¡Hola! 👋 Soy Diego Andriy
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Estudiante+de+Ingeniería+de+Sistemas;Full+Stack+Developer+en+formación;Apasionado+por+IA+y+Ciberseguridad;Especialista+en+Data+Science" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Estudiante+de+Ingeniería+de+Sistemas;Full+Stack+Developer+%2B+Data+Scientist;Especialista+en+IA+y+Ciberseguridad;Python+%7C+JavaScript+%7C+Java+%7C+C%23" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí
 
-- 🎓 **Estudiante de Ingeniería de Sistemas** con pasión por la tecnología
+- 🎓 **Estudiante de Ingeniería de Sistemas** con enfoque en desarrollo integral
 - 🔭 Actualmente realizando **prácticas en Full Stack Development**
-- 🌱 Aprendiendo **Data Science** y profundizando en **Machine Learning**
-- 💡 Especializado en **Python** para Data Science, Web APIs y desarrollo backend
-- 🌐 Desarrollador **JavaScript** con experiencia en **Astro** y **Next.js**
+- 🌱 Especializándome en **Data Science** y **Machine Learning Engineering**
+- 💻 **Full Stack Developer** con experiencia en múltiples tecnologías y lenguajes
 - 🤖 Apasionado por la **Inteligencia Artificial** y **Ciberseguridad**
-- 💬 Pregúntame sobre **Python, Data Science, JavaScript, APIs REST**
+- 📊 Especialista en **integración de ML/AI en aplicaciones web**
+- 🌐 Desarrollador **políglota**: Python, JavaScript, Java, C#, PHP
+- 💬 Pregúntame sobre **Python, Data Science, APIs, Microservicios, ML en producción**
 - 📫 Contáctame en: **[LinkedIn](https://www.linkedin.com/in/andriydiego/)**
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Stack Tecnológico Completo
 
-### Lenguajes Principales
+### 💻 Lenguajes de Programación
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Data Science & IA
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
-### Frontend & Frameworks
+### 🌐 Frontend & Frameworks Web
 ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Backend & APIs
+### ⚙️ Backend & APIs
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-### Bases de Datos
+### 🔐 Autenticación & Seguridad
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![OAuth](https://img.shields.io/badge/OAuth-2F2F2F?style=for-the-badge&logo=oauth&logoColor=white)
+
+### 🗄️ Bases de Datos
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### Herramientas y Plataformas
+### 📊 Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
+
+### 📈 Visualización de Datos
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🛠️ Herramientas & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -74,33 +94,84 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Limense&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Trofeos de GitHub" />
 </div>
 
-## 🌟 Áreas de Especialización
+## 🌟 Especializaciones Principales
 
-### 🤖 Inteligencia Artificial
-- **Machine Learning:** Algoritmos de clasificación y regresión
-- **Data Analysis:** Análisis exploratorio de datos y visualización
-- **Deep Learning:** Redes neuronales básicas
-- **NLP:** Procesamiento de lenguaje natural
-
-### 🔒 Ciberseguridad
-- **Seguridad en Aplicaciones Web:** Mejores prácticas de desarrollo seguro
-- **Análisis de Vulnerabilidades:** Identificación y mitigación de riesgos
-- **Ethical Hacking:** Pentesting básico y seguridad defensiva
-
-### 🌐 Desarrollo Full Stack
-- **Frontend Moderno:** Astro, Next.js, React
-- **APIs RESTful:** Diseño e implementación con Python
-- **Arquitectura de Software:** Patrones de diseño y buenas prácticas
-
-## 🎯 Proyectos en Desarrollo
-
+### 🤖 Full Stack + Inteligencia Artificial
 ```python
-# Actualmente trabajando en:
-current_projects = {
-    "data_science": "Análisis predictivo con Python",
-    "web_development": "Aplicaciones con Astro y Next.js",
-    "cybersecurity": "Herramientas de análisis de seguridad",
-    "ai_projects": "Modelos de Machine Learning"
+class FullStackDataScientist:
+    def __init__(self):
+        self.backend = ["Python", "Java", "C#", "Node.js", "PHP"]
+        self.frontend = ["Astro", "Next.js", "React", "TypeScript"]
+        self.ml_stack = ["TensorFlow", "scikit-learn", "spaCy", "Pandas"]
+        self.visualization = ["Plotly", "Streamlit", "Seaborn"]
+        self.apis = ["FastAPI", "GraphQL", "REST", "Microservicios"]
+        
+    def create_intelligent_web_app(self):
+        return "Aplicaciones web con IA integrada"
+```
+
+### 🔒 Ciberseguridad & Desarrollo Seguro
+- **Autenticación Avanzada:** JWT, OAuth, Session Management
+- **Desarrollo Seguro:** OWASP Top 10, Secure Coding Practices
+- **Análisis de Vulnerabilidades:** Pentesting básico y defensivo
+- **Arquitectura Segura:** Microservicios con seguridad by design
+
+### 🏗️ Arquitectura de Software
+- **Microservicios:** Diseño y implementación escalable
+- **APIs RESTful y GraphQL:** Diseño eficiente de endpoints
+- **Patrones de Diseño:** Clean Architecture, SOLID principles
+- **DevOps:** Containerización con Docker, CI/CD pipelines
+
+## 🎯 Proyectos Destacados
+
+### 🚀 ML-Powered E-commerce Platform
+```javascript
+// Integración de IA en aplicaciones web
+const intelligentEcommerce = {
+    frontend: "Next.js + TypeScript",
+    backend: "FastAPI + Python",
+    ml_features: [
+        "Sistema de recomendaciones en tiempo real",
+        "Análisis de sentimientos de reviews",
+        "Predicción de demanda con TensorFlow",
+        "Chatbot con spaCy NLP"
+    ],
+    databases: ["PostgreSQL", "MongoDB"],
+    deployment: "Docker + Microservicios"
+}
+```
+
+### 📊 Real-time Analytics Dashboard
+```python
+# Dashboard interactivo con visualizaciones avanzadas
+analytics_platform = {
+    "data_processing": "Pandas + NumPy",
+    "visualization": "Plotly + Streamlit",
+    "backend": "Django + GraphQL",
+    "frontend": "React + D3.js",
+    "features": [
+        "Visualizaciones interactivas en tiempo real",
+        "Análisis predictivo automático",
+        "Alertas inteligentes",
+        "Exportación de reportes automatizada"
+    ]
+}
+```
+
+### 🛡️ Cybersecurity Monitoring System
+```csharp
+// Sistema de monitoreo con IA para ciberseguridad
+public class SecurityMonitor 
+{
+    private readonly MLModelService _mlService;
+    private readonly GraphQLService _apiService;
+    
+    public async Task<ThreatAnalysis> AnalyzeTraffic()
+    {
+        // Detección de amenazas con Machine Learning
+        // Integración en tiempo real con dashboard web
+        return await _mlService.PredictThreats(networkData);
+    }
 }
 ```
 
@@ -110,12 +181,24 @@ current_projects = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Limense&theme=react-dark&hide_border=true" alt="Gráfico de Contribuciones" />
 </div>
 
-## 🎓 Trayectoria Académica
+## 🎓 Desarrollo Profesional Continuo
 
-- 📚 **Ingeniería de Sistemas** - En curso
-- 💼 **Prácticas Full Stack Development** - Actualmente
-- 🔬 **Especialización en Data Science** - En proceso
-- 🛡️ **Certificaciones en Ciberseguridad** - Próximamente
+### 📚 Actualmente Aprendiendo
+- **Advanced ML Engineering:** Despliegue de modelos en producción
+- **Cloud Architecture:** AWS/GCP para aplicaciones escalables
+- **MLOps:** Pipeline completo de Machine Learning
+- **Advanced Microservices:** Arquitecturas distribuidas complejas
+
+### 🎯 Objetivos 2024-2025
+```python
+roadmap_2024_2025 = {
+    "Q2_2024": "Completar especialización en ML Engineering",
+    "Q3_2024": "Certificaciones en Cloud (AWS/Azure)",
+    "Q4_2024": "Proyecto final: Plataforma IA end-to-end",
+    "Q1_2025": "Contribuciones open source en ML/Web",
+    "objetivo_principal": "Senior Full Stack + Data Science Engineer"
+}
+```
 
 ## 🤝 Conecta Conmigo
 
@@ -133,6 +216,29 @@ current_projects = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Quote del Día" />
 </div>
 
+## 🚀 Tecnologías en Acción
+
+```python
+# Mi enfoque: Combinar lo mejor de cada mundo
+def build_intelligent_application():
+    frontend = create_react_app("Next.js + TypeScript")
+    backend = setup_api("FastAPI + Python") 
+    ml_model = train_model("TensorFlow + scikit-learn")
+    database = configure_db("PostgreSQL + MongoDB")
+    
+    return deploy_microservices({
+        "web_app": frontend,
+        "api_gateway": backend, 
+        "ml_service": ml_model,
+        "data_layer": database,
+        "auth": "JWT + OAuth",
+        "monitoring": "Real-time analytics"
+    })
+
+# Resultado: Aplicaciones web inteligentes y escalables
+intelligent_app = build_intelligent_application()
+```
+
 ## 🐍 Contribución Snake
 
 <div align="center">
@@ -147,8 +253,9 @@ current_projects = {
 
 <div align="center">
   
-**"El código es poesía escrita en lógica" 💻**
+**"Construyendo el futuro, una línea de código a la vez"** 💻🤖
 
-**¡Siempre abierto a nuevas oportunidades y colaboraciones!**
+**¿Interesado en colaborar en proyectos que combinen Web Development + IA?**  
+**¡Conectemos y creemos algo increíble juntos!** 🚀
 
 </div>
