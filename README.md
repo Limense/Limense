@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Diego Andriy
+# ¡Hola! 👋 Soy Diego Andriy {Limense}
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Estudiante+de+Ingeniería+de+Sistemas;Full+Stack+Developer+%2B+Data+Scientist;Especialista+en+IA+y+Ciberseguridad;Python+%7C+JavaScript+%7C+Java+%7C+C%23" alt="Typing SVG" />
@@ -74,26 +74,6 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Limense&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estadísticas de GitHub" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Limense&theme=radical&hide_border=true" alt="Racha de GitHub" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Limense&layout=compact&theme=radical&hide_border=true" alt="Lenguajes Más Usados" />
-</div>
-
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Limense&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="Trofeos de GitHub" />
-</div>
-
 ## 🌟 Especializaciones Principales
 
 ### 🤖 Full Stack + Inteligencia Artificial
@@ -109,96 +89,12 @@ class FullStackDataScientist:
     def create_intelligent_web_app(self):
         return "Aplicaciones web con IA integrada"
 ```
-
-### 🔒 Ciberseguridad & Desarrollo Seguro
-- **Autenticación Avanzada:** JWT, OAuth, Session Management
-- **Desarrollo Seguro:** OWASP Top 10, Secure Coding Practices
-- **Análisis de Vulnerabilidades:** Pentesting básico y defensivo
-- **Arquitectura Segura:** Microservicios con seguridad by design
-
-### 🏗️ Arquitectura de Software
-- **Microservicios:** Diseño y implementación escalable
-- **APIs RESTful y GraphQL:** Diseño eficiente de endpoints
-- **Patrones de Diseño:** Clean Architecture, SOLID principles
-- **DevOps:** Containerización con Docker, CI/CD pipelines
-
-## 🎯 Proyectos Destacados
-
-### 🚀 ML-Powered E-commerce Platform
-```javascript
-// Integración de IA en aplicaciones web
-const intelligentEcommerce = {
-    frontend: "Next.js + TypeScript",
-    backend: "FastAPI + Python",
-    ml_features: [
-        "Sistema de recomendaciones en tiempo real",
-        "Análisis de sentimientos de reviews",
-        "Predicción de demanda con TensorFlow",
-        "Chatbot con spaCy NLP"
-    ],
-    databases: ["PostgreSQL", "MongoDB"],
-    deployment: "Docker + Microservicios"
-}
-```
-
-### 📊 Real-time Analytics Dashboard
-```python
-# Dashboard interactivo con visualizaciones avanzadas
-analytics_platform = {
-    "data_processing": "Pandas + NumPy",
-    "visualization": "Plotly + Streamlit",
-    "backend": "Django + GraphQL",
-    "frontend": "React + D3.js",
-    "features": [
-        "Visualizaciones interactivas en tiempo real",
-        "Análisis predictivo automático",
-        "Alertas inteligentes",
-        "Exportación de reportes automatizada"
-    ]
-}
-```
-
-### 🛡️ Cybersecurity Monitoring System
-```csharp
-// Sistema de monitoreo con IA para ciberseguridad
-public class SecurityMonitor 
-{
-    private readonly MLModelService _mlService;
-    private readonly GraphQLService _apiService;
-    
-    public async Task<ThreatAnalysis> AnalyzeTraffic()
-    {
-        // Detección de amenazas con Machine Learning
-        // Integración en tiempo real con dashboard web
-        return await _mlService.PredictThreats(networkData);
-    }
-}
-```
-
 ## 📈 Gráfico de Contribuciones
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Limense&theme=react-dark&hide_border=true" alt="Gráfico de Contribuciones" />
 </div>
 
-## 🎓 Desarrollo Profesional Continuo
-
-### 📚 Actualmente Aprendiendo
-- **Advanced ML Engineering:** Despliegue de modelos en producción
-- **Cloud Architecture:** AWS/GCP para aplicaciones escalables
-- **MLOps:** Pipeline completo de Machine Learning
-- **Advanced Microservices:** Arquitecturas distribuidas complejas
-
-### 🎯 Objetivos 2024-2025
-```python
-roadmap_2024_2025 = {
-    "Q2_2024": "Completar especialización en ML Engineering",
-    "Q3_2024": "Certificaciones en Cloud (AWS/Azure)",
-    "Q4_2024": "Proyecto final: Plataforma IA end-to-end",
-    "Q1_2025": "Contribuciones open source en ML/Web",
-    "objetivo_principal": "Senior Full Stack + Data Science Engineer"
-}
-```
 
 ## 🤝 Conecta Conmigo
 
@@ -206,7 +102,7 @@ roadmap_2024_2025 = {
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andriydiego/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Limense)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diego@ejemplo.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andriy.diego@outlook.com)
 
 </div>
 
@@ -238,19 +134,6 @@ def build_intelligent_application():
 # Resultado: Aplicaciones web inteligentes y escalables
 intelligent_app = build_intelligent_application()
 ```
-
-## 🐍 Contribución Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Limense/Limense/output/github-contribution-grid-snake.svg" alt="Animación de serpiente" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Limense&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="Vistas del Perfil" />
-</div>
-
 <div align="center">
   
 **"Construyendo el futuro, una línea de código a la vez"** 💻🤖
