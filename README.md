@@ -17,7 +17,6 @@ Soy estudiante de Ingeniería de Sistemas apasionado por la calidad del software
 -  Experiencia en automatización frontend y backend
 -  Enfocado en **BDD, TDD** y patrones de diseño para testing
 -  Contáctame: **andriy.diego@outlook.com**
--  Teléfono: 935688861
 
 ---
 
