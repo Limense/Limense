@@ -1,4 +1,4 @@
-# Hi there!  I'm Andry Emilio Diego
+# Hey! I'm Andry Emilio Diego 🚀
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=¡Bienvenido+a+mi+perfil+de+GitHub!;Estudiante+de+Ingeniería+de+Sistemas;QA+Automation+Engineer;Especialista+en+Testing+y+Automatización;Selenium+%7C+Playwright+%7C+Karate+%7C+JMeter;Python+%7C+JavaScript+%7C+TypeScript+%7C+Java" alt="Typing SVG" />
