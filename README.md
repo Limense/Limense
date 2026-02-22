@@ -10,12 +10,12 @@
 
 ##  About Me
 
-Soy estudiante de Ingeniería de Sistemas apasionado por la calidad del software y la automatización de pruebas. Me especializo en implementar frameworks de testing robustos y escalables, trabajando con metodologías ágiles y enfoque en la mejora continua.
+Egresado de Ingeniería de Sistemas apasionado por la calidad del software y la automatización de pruebas. Me especializo en implementar frameworks de testing robustos y escalables, trabajando con metodologías ágiles y enfoque en la mejora continua.
 
--  QA Engineer con experiencia en automatización de pruebas
--  Enfocado en **Performance Testing**, **CI/CD** y metodologías ágiles
--  Experiencia en automatización frontend y backend
--  Enfocado en **BDD, TDD** y patrones de diseño para testing
+-  QA Automation Engineer con experiencia en automatización de pruebas
+-  Enfocad en la automatización **frontend** & **backend**
+-  Enfocado en **BDD, TDD** y patrones de diseño (Page Object Model & ScreenPlay) para testing
+-  Experiencia en **Performance Testing**, **CI/CD**, **Móvil** y metodologías ágiles
 -  Contáctame: **andriy.diego@outlook.com**
 
 ---
@@ -72,12 +72,9 @@ Soy estudiante de Ingeniería de Sistemas apasionado por la calidad del software
 ---
 
 ##  Current Goals
-
--  Completar Ingeniería de Sistemas - UNDC
 -  Obtener certificación ISTQB Foundation Level
 -  Profundizar en CI/CD y DevOps
 -  Mejorar nivel de inglés técnico
--  Contribuir a proyectos open source de testing
 
 ---
 
